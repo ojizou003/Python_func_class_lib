@@ -41,5 +41,5 @@ class クラス名 (継承したいクラス名)
 
 ## ライブラリ
 
-import ライブラリ名
+import ライブラリ名  
 from ライブラリ名 import 関数名
